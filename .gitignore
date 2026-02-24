@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+output/
+output_adj/
+*.h5
+data/spy.csv
